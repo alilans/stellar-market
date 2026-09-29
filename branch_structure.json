@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1365-usejobfilters-hardcodes-its-own-copy-of-the-job",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1365-usejobfilters-hardcodes-its-own-copy-of-the-job": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1365-usejobfilters-hardcodes-its-own-copy-of-the-job",
+    "origin"
+  ]
+}
